@@ -7,5 +7,5 @@ Purchased asset packs:
 - ParkingGarage
 
 Built Levels in Garages:
-Garage1 - 2 story, underground
-Garage2 - 1 story
+- Garage1, 2 story underground
+- Garage2, 1 story
