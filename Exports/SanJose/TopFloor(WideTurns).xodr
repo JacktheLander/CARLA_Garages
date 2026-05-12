@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="4" name="" version="1" date="2026-05-09T14:49:32" north="8.6420544695373493e+00" south="-1.1077718970749360e+02" east="1.3087102028439188e+02" west="3.6503360832029315e+01" vendor="MathWorks">
+        <userData>
+            <vectorScene program="RoadRunner" version="R2026a (1.12.0.ad001273cd5)"/>
+        </userData>
+    </header>
+    <road name="Road 0" length="1.9002054076624301e+01" id="0" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="4" contactPoint="end"/>
+            <successor elementType="junction" elementId="11"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="8.3519996643066406e+01" y="-7.0650001525878906e+01" hdg="-1.4654943925052066e-14" length="9.0019094195920957e-01">
+                <line/>
+            </geometry>
+            <geometry s="9.0019094195920957e-01" x="8.4420187585025616e+01" y="-7.0650001525878920e+01" hdg="-1.4210854715202004e-14" length="1.9265158002364753e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-2.0318101018280288e-01"/>
+            </geometry>
+            <geometry s="2.8267067421956851e+00" x="8.6339337010647952e+01" y="-7.0775341207845898e+01" hdg="-1.9571571321260350e-01" length="5.7795474007094256e+00">
+                <arc curvature="-2.0318101018280288e-01"/>
+            </geometry>
+            <geometry s="8.6062541429051116e+00" x="9.0205059597558204e+01" y="-7.4621511708979781e+01" hdg="-1.3700099924881370e+00" length="1.9265158002364753e+00">
+                <spiral curvStart="-2.0318101018280288e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="1.0532769943141586e+01" x="9.0340128906071897e+01" y="-7.6540000915527401e+01" hdg="-1.5657257057007250e+00" length="2.3558182716773008e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="3.8399580731102224e-03"/>
+            </geometry>
+            <geometry s="1.2888588214818887e+01" x="9.0355626125660237e+01" y="-7.8895766072043685e+01" hdg="-1.5612025840051711e+00" length="6.1134658618054161e+00">
+                <arc curvature="3.8399580731102224e-03"/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-2.2474378126468526e+00" b="2.1171458974129467e-01" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="2.8392437704546660e+00" a="-1.6463284826095164e+00" b="2.1171458974129465e-01" c="-7.7909983074839293e-03" d="0.0000000000000000e+00"/>
+            <elevation s="9.0934444056498549e+00" a="-6.2696805910149800e-01" b="1.1426165661435243e-01" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="9.1370103918867738e+00" a="-6.2199013734202957e-01" b="1.1426165661435336e-01" c="-7.3221356921311757e-03" d="0.0000000000000000e+00"/>
+            <elevation s="1.5391211027081964e+01" a="-1.9378033690265914e-01" b="2.2673445220929012e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{1bbae522-16e5-39d5-b3d9-1399ba214eaf}" travelDir="forward">
+                                <predecessor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="Road 1" length="2.1362571067812244e+01" id="1" junction="-1">
+        <link>
+            <successor elementType="junction" elementId="11"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="6.3699996948242188e+01" y="-8.7049995422363281e+01" hdg="-4.1103520360143975e-03" length="2.1362571067812244e+01">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{1e606ca9-01c2-30d2-a36b-23a75cc0dae4}" travelDir="forward"/>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object id="82" name="" s="5.3328925859905159e+00" t="-6.7359417681972502e+00" zOffset="0.0000000000000000e+00" hdg="-1.5709169117570267e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8107097567087180e+00" length="5.5000491070091471e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="84" name="" s="1.0020455454387633e+01" t="-6.6673573032550593e+00" zOffset="0.0000000000000000e+00" hdg="-1.5709078160762511e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8107286118201387e+00" length="5.5000241277942337e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="86" name="" s="1.5826981673921489e+01" t="-6.6795623840374532e+00" zOffset="0.0000000000000000e+00" hdg="-1.5709164018624848e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8106459237429959e+00" length="5.5000491188813214e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+        </objects>
+    </road>
+    <road name="Road 2" length="1.0983074541368161e+02" id="2" junction="-1">
+        <link>
+            <predecessor elementType="junction" elementId="11"/>
+            <successor elementType="junction" elementId="14"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="9.2691398768954855e+01" y="-8.7169160960965058e+01" hdg="-4.1103520360143975e-03" length="1.4673678046338498e+01">
+                <line/>
+            </geometry>
+            <geometry s="1.4673678046338498e+01" x="1.0736495285961763e+02" y="-8.7229474773564732e+01" hdg="-4.1103520360143975e-03" length="3.6267516853578444e-03">
+                <spiral curvStart="-1.9975127662263716e-09" curvEnd="2.1646893125647125e+02"/>
+            </geometry>
+            <geometry s="1.4677304798023854e+01" x="1.0736852602393400e+02" y="-8.7229020106290420e+01" hdg="3.8842917859201043e-01" length="1.0880255056070837e-02">
+                <arc curvature="2.1646893125430901e+02"/>
+            </geometry>
+            <geometry s="1.4688185053079925e+01" x="1.0736856654898466e+02" y="-8.7220485987009837e+01" hdg="2.7436663623532418e+00" length="3.6267516854277277e-03">
+                <spiral curvStart="2.1646893088731824e+02" curvEnd="7.2263858896803868e-07"/>
+            </geometry>
+            <geometry s="1.4691811804765281e+01" x="1.0736499786376953e+02" y="-8.7219997406005859e+01" hdg="3.1362058929807137e+00" length="2.4282025567101084e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-1.6125567390967885e-01"/>
+            </geometry>
+            <geometry s="1.7120014361475391e+01" x="1.0494697249778939e+02" y="-8.7048937908895539e+01" hdg="2.9404251731449671e+00" length="7.2846076701303248e+00">
+                <arc curvature="-1.6125567390967885e-01"/>
+            </geometry>
+            <geometry s="2.4404622031605715e+01" x="1.0010221265685213e+02" y="-8.2173935156937205e+01" hdg="1.7657408541304864e+00" length="2.4282025567101084e+00">
+                <spiral curvStart="-1.6125567390967885e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="2.6832824588315823e+01" x="9.9946203633234759e+01" y="-7.9754892121638875e+01" hdg="1.5699601342947389e+00" length="5.7994470784975348e+01">
+                <line/>
+            </geometry>
+            <geometry s="8.4827295373291179e+01" x="9.9994698169104396e+01" y="-2.1760441612048300e+01" hdg="1.5699601342947389e+00" length="2.0786695971711944e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-1.8739522028332772e-01"/>
+            </geometry>
+            <geometry s="8.6905964970462378e+01" x="1.0013101613469942e+02" y="-1.9689756655923841e+01" hdg="1.3751937607656632e+00" length="6.2360087915135818e+00">
+                <arc curvature="-1.8739522028332775e-01"/>
+            </geometry>
+            <geometry s="9.3141973761975962e+01" x="1.0427093881807806e+02" y="-1.5504072004297603e+01" hdg="2.0659551959120659e-01" length="2.0786695971711944e+00">
+                <spiral curvStart="-1.8739522028332775e-01" curvEnd="-2.7755575615628914e-17"/>
+            </geometry>
+            <geometry s="9.5220643359147161e+01" x="1.0634000015258789e+02" y="-1.5344999790191650e+01" hdg="1.1829146062121154e-02" length="8.6745968678574814e-02">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="8.9491805643181923e+00"/>
+            </geometry>
+            <geometry s="9.5307389327825732e+01" x="1.0642531095088849e+02" y="-1.5332886458644420e+01" hdg="3.9998181452774961e-01" length="2.6023790603572444e-01">
+                <arc curvature="8.9491805643181923e+00"/>
+            </geometry>
+            <geometry s="9.5567627233861458e+01" x="1.0642661584895635e+02" y="-1.5127603821566527e+01" hdg="2.7288978253215177e+00" length="8.6745968678574814e-02">
+                <spiral curvStart="8.9491805643181923e+00" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="9.5654373202540029e+01" x="1.0634146593736141e+02" y="-1.5114406940752030e+01" hdg="3.1170504937871630e+00" length="5.8530590239960052e+00">
+                <line/>
+            </geometry>
+            <geometry s="1.0150743222653604e+02" x="1.0049016952514648e+02" y="-1.4970774650573734e+01" hdg="3.1170504937871630e+00" length="8.3233131871456010e+00">
+                <arc curvature="2.7008018507606786e-03"/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{1eaf5288-6da8-349b-8e3a-0bcbb6ab8ec3}" travelDir="forward"/>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object id="90" name="" s="1.3420220329464005e+00" t="-6.5541380031798013e+00" zOffset="0.0000000000000000e+00" hdg="-1.5709166095455589e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8106470635303253e+00" length="5.4999992082679654e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="92" name="" s="5.5497038023114769e+00" t="-6.4884415646761795e+00" zOffset="0.0000000000000000e+00" hdg="-1.5709093741650670e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8107200239094965e+00" length="5.5000197124389416e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="94" name="" s="1.1368996924889508e+01" t="-6.4512163101721427e+00" zOffset="0.0000000000000000e+00" hdg="-1.5709231811511553e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8106942102040762e+00" length="5.4999958541817335e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="96" name="" s="1.4667338315743125e+01" t="-6.4502289262627528e+00" zOffset="0.0000000000000000e+00" hdg="-1.5709158640285135e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8106429720504309e+00" length="5.5000013209973559e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="128" name="" s="2.6270425101335018e+01" t="3.5984918839918407e+00" zOffset="3.8146972656250000e-06" hdg="1.5672403462557274e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872242399718289e+00" length="5.4900317694154808e+00">
+                <parkingSpace>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="130" name="" s="2.9127418066350607e+01" t="3.6164585801521127e+00" zOffset="3.8146972656250000e-06" hdg="1.5777490012745845e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8871490103712887e+00" length="5.4900517507102933e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="132" name="" s="3.2014517785773201e+01" t="3.6365119181704415e+00" zOffset="3.8146972656250000e-06" hdg="1.5777552219271853e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872440858732915e+00" length="5.4900316787187933e+00">
+                <parkingSpace>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="136" name="" s="3.6240479126179714e+01" t="3.5907902478589619e+00" zOffset="3.8146972656250000e-06" hdg="1.5777478492500896e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8871427060831536e+00" length="5.4900319265739199e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="138" name="" s="3.9127578820083713e+01" t="3.6108741034447718e+00" zOffset="3.8146972656250000e-06" hdg="1.5777515181267494e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872234439968878e+00" length="5.4899982720935867e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="134" name="" s="4.2014709031555192e+01" t="3.6309579845491129e+00" zOffset="3.8146972656250000e-06" hdg="1.5777440701149750e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872171333631371e+00" length="5.4900317261522247e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="158" name="" s="5.1610131030439426e+01" t="3.6427047521634108e+00" zOffset="0.0000000000000000e+00" hdg="1.5753244069416028e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8641551484187957e+00" length="5.4999912165701090e+00">
+                <parkingSpace>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="140" name="" s="5.6247260365118784e+01" t="3.6235109887106489e+00" zOffset="3.8146972656250000e-06" hdg="1.5777556884103499e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872468107122558e+00" length="5.4900319902539962e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="142" name="" s="5.9134394391286172e+01" t="3.6435948730048011e+00" zOffset="3.8146972656250000e-06" hdg="1.5777482403982628e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872055073301439e+00" length="5.4899889187655333e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="144" name="" s="6.2021528417453531e+01" t="3.6636787572989675e+00" zOffset="3.8146972656250000e-06" hdg="1.5777407919207325e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872351883881393e+00" length="5.4900353019327071e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="146" name="" s="6.6224872001654589e+01" t="3.6595031301227436e+00" zOffset="3.8146972656250000e-06" hdg="1.5777463843070341e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8871435257289804e+00" length="5.4900319757513785e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="148" name="" s="6.9111967906381224e+01" t="3.6795564649512613e+00" zOffset="3.8146972656250000e-06" hdg="1.5777526049598340e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872297649822158e+00" length="5.4900624074675193e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="150" name="" s="7.1999094328675312e+01" t="3.6996098252983103e+00" zOffset="3.8146972656250000e-06" hdg="1.5777477090886605e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872029730855360e+00" length="5.4900319312800860e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="152" name="" s="7.6253559239987766e+01" t="3.6947750408601081e+00" zOffset="3.8146972656250000e-06" hdg="1.5777451853529010e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872109910503347e+00" length="5.4899798735451952e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="154" name="" s="7.9140662748587687e+01" t="3.7148588996357148e+00" zOffset="3.8146972656250000e-06" hdg="1.5777488545940213e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8871482076834631e+00" length="5.4900318928113307e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="156" name="" s="8.2027758653314322e+01" t="3.7349122344642041e+00" zOffset="3.8146972656250000e-06" hdg="1.5777550757122858e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872432857391601e+00" length="5.4900694578985991e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="176" name="" s="9.5589056800381172e+01" t="-7.7809765822971659e+00" zOffset="0.0000000000000000e+00" hdg="-1.3337817283704076e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8065382882372205e+00" length="5.5000367036093207e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="174" name="" s="9.8289216057000388e+01" t="-7.3874526418440158e+00" zOffset="0.0000000000000000e+00" hdg="-1.5538544565571351e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8064854735959699e+00" length="5.5000369840001282e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+        </objects>
+    </road>
+    <road name="Road 3" length="2.4763082403732426e+01" id="3" junction="-1">
+        <link>
+            <predecessor elementType="junction" elementId="14"/>
+            <successor elementType="road" elementId="8" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="8.4645180776392010e+01" y="-1.4920968401941197e+01" hdg="-3.1233371608696769e+00" length="8.5319187611275993e+00">
+                <arc curvature="2.7008018507606786e-03"/>
+            </geometry>
+            <geometry s="8.5319187611275993e+00" x="7.6117232910745813e+01" y="-1.5174980216497849e+01" hdg="-3.1002941388890850e+00" length="1.5995570001366783e+01">
+                <line/>
+            </geometry>
+            <geometry s="2.4527488762494382e+01" x="6.0135301731421052e+01" y="-1.5835385734306403e+01" hdg="-3.1002941388890823e+00" length="4.7580430486324536e-02">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="1.6468719788465695e+01"/>
+            </geometry>
+            <geometry s="2.4575069192980706e+01" x="6.0088740206895039e+01" y="-1.5843461109815513e+01" hdg="-2.7084997503421580e+00" length="1.4274129145897360e-01">
+                <arc curvature="1.6468719788465695e+01"/>
+            </geometry>
+            <geometry s="2.4717810484439681e+01" x="6.0092962034927339e+01" y="-1.5955453114281198e+01" hdg="-3.5773341906060985e-01" length="4.5271919292758867e-02">
+                <spiral curvStart="1.6468719788465695e+01" curvEnd="7.9903068523721288e-01"/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{f096b745-3a11-3b1b-9e56-83ae9591e5bb}" travelDir="forward">
+                                <successor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object id="168" name="" s="8.4150733752694151e+00" t="-7.3392178950608891e+00" zOffset="0.0000000000000000e+00" hdg="-1.6193706805351051e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8065382857763552e+00" length="5.4999793261637198e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="166" name="" s="1.1279057373600859e+01" t="-7.4928796870661731e+00" zOffset="0.0000000000000000e+00" hdg="-1.6196936307558121e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8064935899895431e+00" length="5.5000367188558696e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="164" name="" s="1.5404849782485320e+01" t="-7.6638544196197405e+00" zOffset="0.0000000000000000e+00" hdg="-1.6196887693922548e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8065204310991589e+00" length="5.5000369218266600e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="162" name="" s="2.1255737393995037e+01" t="-7.9681772375988231e+00" zOffset="0.0000000000000000e+00" hdg="-1.6196950761140272e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8064857769737017e+00" length="5.5000369862966041e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="160" name="" s="2.4557956194450071e+01" t="-8.3437941497152188e+00" zOffset="0.0000000000000000e+00" hdg="-1.7803298647323538e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8065540360459309e+00" length="5.5000428399862926e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+        </objects>
+    </road>
+    <road name="Road 4" length="1.3909430259302535e+01" id="4" junction="-1">
+        <link>
+            <predecessor elementType="junction" elementId="17"/>
+            <successor elementType="road" elementId="0" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="7.6873628253167183e+01" y="-8.0305095596527622e+01" hdg="1.5597800517902600e+00" length="4.0607390147218112e+00">
+                <line/>
+            </geometry>
+            <geometry s="4.0607390147218112e+00" x="7.6918361566069365e+01" y="-7.6244602981536104e+01" hdg="1.5597800517902609e+00" length="8.9039942067647182e-01">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-2.1897196016329021e-01"/>
+            </geometry>
+            <geometry s="4.9511384353982830e+00" x="7.6957073446403513e+01" y="-7.5355421883795074e+01" hdg="1.4622937985533682e+00" length="2.6711982620294155e+00">
+                <arc curvature="-2.1897196016329021e-01"/>
+            </geometry>
+            <geometry s="7.6223366974276985e+00" x="7.7984852765646551e+01" y="-7.2930995509773368e+01" hdg="8.7737627913201255e-01" length="8.9039942067647182e-01">
+                <spiral curvStart="-2.1897196016329021e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="8.5127361181041703e+00" x="7.8596984708574496e+01" y="-7.2284902545327725e+01" hdg="7.7989002589512380e-01" length="8.9039942067647948e-01">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-2.1897196016328718e-01"/>
+            </geometry>
+            <geometry s="9.4031355387806492e+00" x="7.9249781746468273e+01" y="-7.1679925139488418e+01" hdg="6.8240377265823149e-01" length="2.6711982620294381e+00">
+                <arc curvature="-2.1897196016328718e-01"/>
+            </geometry>
+            <geometry s="1.2074333800810088e+01" x="8.1685383080445064e+01" y="-7.0678915791856568e+01" hdg="9.7486253236879428e-02" length="8.9039942067647948e-01">
+                <spiral curvStart="-2.1897196016328718e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="1.2964733221486567e+01" x="8.2574936676065860e+01" y="-7.0650001525878992e+01" hdg="-1.3322676295501878e-14" length="9.4469703781596870e-01">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-3.9575681139150971e+00" b="6.3386416393515360e-02" c="-8.7203659838456619e-03" d="-5.5139922502122433e-18"/>
+            <elevation s="3.1141900479902702e+00" a="-3.8447424427733448e+00" b="9.0726624700648451e-03" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="3.4974666687865339e+00" a="-3.8412651033601932e+00" b="9.0726624700651730e-03" c="1.6814595138489381e-02" d="0.0000000000000000e+00"/>
+            <elevation s="9.5232414674723707e+00" a="-3.1760579732370404e+00" b="2.1171458974129456e-01" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{850d98ed-bbe9-31dc-8584-78da3776d4e9}" travelDir="forward">
+                                <successor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="Road 5" length="1.0426727147983857e+02" id="5" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="6" contactPoint="end"/>
+            <successor elementType="road" elementId="9" contactPoint="end"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="1.0333999633789064e+02" y="-8.2639999389648452e+01" hdg="1.5440710589327828e+00" length="2.1058985962735630e+01">
+                <line/>
+            </geometry>
+            <geometry s="2.1058985962735630e+01" x="1.0390273638449708e+02" y="-6.1588533563757807e+01" hdg="1.5440710589327820e+00" length="4.3078546447619210e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="2.0000000000000209e-03"/>
+            </geometry>
+            <geometry s="2.5366840607497551e+01" x="1.0401166738236587e+02" y="-5.7282059940696094e+01" hdg="1.5483789135775439e+00" length="1.2923563934285763e+01">
+                <arc curvature="2.0000000000000209e-03"/>
+            </geometry>
+            <geometry s="3.8290404541783317e+01" x="1.0413435649213575e+02" y="-4.4359438149459777e+01" hdg="1.5742260414461153e+00" length="4.3078546447619210e+00">
+                <spiral curvStart="2.0000000000000209e-03" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="4.2598259186545235e+01" x="1.0410721023993526e+02" y="-4.0051672590679182e+01" hdg="1.5785338960908817e+00" length="2.0827404042809484e+01">
+                <line/>
+            </geometry>
+            <geometry s="6.3425663229354718e+01" x="1.0394605836593634e+02" y="-1.9224892012876396e+01" hdg="1.5785338960908799e+00" length="2.3756889944748272e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="1.6390379513792222e-01"/>
+            </geometry>
+            <geometry s="6.5801352223829539e+01" x="1.0377399152187429e+02" y="-1.6859452849975778e+01" hdg="1.7732261172217898e+00" length="7.1270669834244824e+00">
+                <arc curvature="1.6390379513792219e-01"/>
+            </geometry>
+            <geometry s="7.2928419207254024e+01" x="9.9010815209450740e+01" y="-1.2106822818899996e+01" hdg="2.9413794440072447e+00" length="2.3756889944748272e+00">
+                <spiral curvStart="1.6390379513792219e-01" curvEnd="-2.7755575615628914e-17"/>
+            </geometry>
+            <geometry s="7.5304108201728852e+01" x="9.6645000457763672e+01" y="-1.1939999580383301e+01" hdg="3.1360716651381537e+00" length="6.8535532083434769e-01">
+                <line/>
+            </geometry>
+            <geometry s="7.5989463522563199e+01" x="9.5959655582167983e+01" y="-1.1936215760794404e+01" hdg="3.1360716651381537e+00" length="2.6238201462975193e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-2.0263315554113329e-03"/>
+            </geometry>
+            <geometry s="7.8613283668860717e+01" x="9.3335890115067784e+01" y="-1.1919404776817537e+01" hdg="3.1334133003590701e+00" length="7.8714604388925578e+00">
+                <arc curvature="-2.0263315554113329e-03"/>
+            </geometry>
+            <geometry s="8.6484744107753272e+01" x="8.5465540175427066e+01" y="-1.1792252560374310e+01" hdg="3.1174631116845708e+00" length="2.6238201462975193e+00">
+                <spiral curvStart="-2.0263315554113329e-03" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="8.9108564254050791e+01" x="8.2842600967468513e+01" y="-1.1724298555046664e+01" hdg="3.1148047469054880e+00" length="2.0861879513950332e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="1.9797778228869514e-01"/>
+            </geometry>
+            <geometry s="9.1194752205445823e+01" x="8.0762202802287021e+01" y="-1.1811776070191327e+01" hdg="-2.9618711282468055e+00" length="6.2585638541850992e+00">
+                <arc curvature="1.9797778228869517e-01"/>
+            </geometry>
+            <geometry s="9.7453316059630922e+01" x="7.6672289951029342e+01" y="-1.6016592017043447e+01" hdg="-1.7228145360830514e+00" length="2.0861879513950332e+00">
+                <spiral curvStart="1.9797778228869517e-01" curvEnd="2.7755575615628914e-17"/>
+            </geometry>
+            <geometry s="9.9539504011025954e+01" x="7.6642472558170155e+01" y="-1.8098615015098307e+01" hdg="-1.5163051040557578e+00" length="4.7277674688126297e+00">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-4.1336577750049974e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="1.0912596969896228e+01" a="-4.1336577750049974e+00" b="0.0000000000000000e+00" c="1.9852868526411399e-04" d="0.0000000000000000e+00"/>
+            <elevation s="3.2046171188286976e+01" a="-4.0449893134540460e+00" b="8.3912414090174334e-03" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="3.2219076118637439e+01" a="-4.0435384264426659e+00" b="8.3912414090173797e-03" c="-2.2618082155441687e-04" d="0.0000000000000000e+00"/>
+            <elevation s="5.3698460197728970e+01" a="-3.9676514043971340e+00" b="-1.3252080659661926e-03" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-5.0000000000000000e-01" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{2dafe003-a6c1-3ffe-b354-cf627ff6a3d4}" travelDir="backward">
+                                <predecessor id="1" virtual="false"/>
+                                <successor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="0" leftBoundary="1"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object id="98" name="" s="2.4074849428662679e+00" t="-3.9397899372488183e+00" zOffset="4.1336577750049956e+00" hdg="-1.5379592985692008e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872159792756804e+00" length="5.4900317191247154e+00">
+                <parkingSpace>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="100" name="" s="5.2931285876670096e+00" t="-3.8450065106792692e+00" zOffset="4.1336577750049956e+00" hdg="-1.5379544023335348e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872109999669249e+00" length="5.4900526223247397e+00">
+                <parkingSpace>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="102" name="" s="8.1787722324677539e+00" t="-3.7502230841097202e+00" zOffset="4.1336577750049956e+00" hdg="-1.5379496545399607e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872001952658479e+00" length="5.4900317224063855e+00">
+                <parkingSpace>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="104" name="" s="1.2435012081516192e+01" t="-3.6344930222161906e+00" zOffset="4.1331976355870363e+00" hdg="-1.5379478199696017e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872471929417287e+00" length="5.4900319879026256e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="106" name="" s="1.5320625219636572e+01" t="-3.5397104111400068e+00" zOffset="4.1298002210893419e+00" hdg="-1.5379540414527855e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8871519408178443e+00" length="5.4900532787852967e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="108" name="" s="1.8206238357756984e+01" t="-3.4449278000638088e+00" zOffset="4.1230966038972365e+00" hdg="-1.5379602624700486e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872212880759704e+00" length="5.4900317514472761e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="110" name="" s="3.2372305026198177e+01" t="-3.1593640636170477e+00" zOffset="4.0422579562101841e+00" hdg="-1.5562818738604158e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872368630912177e+00" length="5.4900361900328107e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="112" name="" s="3.5241284446355081e+01" t="-3.1256982002150409e+00" zOffset="4.0202442243118863e+00" hdg="-1.5620123846888425e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872038408146210e+00" length="5.4899880497331424e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="114" name="" s="3.8110560462249794e+01" t="-3.1085992372591420e+00" zOffset="4.0019522021358354e+00" hdg="-1.5677434886078316e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8872449726459948e+00" length="5.4900316732643972e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="116" name="" s="4.2311008506146621e+01" t="-3.1516171424164838e+00" zOffset="3.9818904460913833e+00" hdg="-1.5724058576159099e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872318184633556e+00" length="5.4899724808320087e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="118" name="" s="4.5197948857221590e+01" t="-3.1562854540357819e+00" zOffset="3.9727299887623735e+00" hdg="-1.5724175631201776e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872092289576727e+00" length="5.4900318928895473e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="120" name="" s="4.8085137280758005e+01" t="-3.1609860321748329e+00" zOffset="3.9673394042507857e+00" hdg="-1.5724139096100975e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872292222145575e+00" length="5.4900317700999750e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="122" name="" s="5.2329720196911772e+01" t="-3.2513873173980272e+00" zOffset="3.9662612773847377e+00" hdg="-1.5724148697856852e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8871629337995799e+00" length="5.4900318023843795e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="124" name="" s="5.5216881918366667e+01" t="-3.2560876889237420e+00" zOffset="3.9696636291088598e+00" hdg="-1.5724210908029150e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872098511287909e+00" length="5.4900413048737136e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="126" name="" s="5.8104074156486185e+01" t="-3.2607882965790083e+00" zOffset="3.9734897595508110e+00" hdg="-1.5724161945672492e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8872167181565551e+00" length="5.4900318469114779e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="172" name="" s="7.4078599369464399e+01" t="-4.2491130652678502e+00" zOffset="3.9946593292130319e+00" hdg="-1.5210610818814814e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8065178318364161e+00" length="5.5000369021825248e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="170" name="" s="7.8484661985006710e+01" t="-4.2163648859980034e+00" zOffset="4.0004982789303005e+00" hdg="-1.5704710082946649e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8064880494954139e+00" length="5.5000366769267561e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+        </objects>
+    </road>
+    <road name="Road 6" length="3.4446641353045514e+01" id="6" junction="-1">
+        <link>
+            <predecessor elementType="junction" elementId="17"/>
+            <successor elementType="road" elementId="5" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="7.6998728557453560e+01" y="-8.4600138059906882e+01" hdg="-1.4153232640059050e+00" length="5.3568461316653915e-01">
+                <spiral curvStart="1.1376473163559815e-01" curvEnd="1.4214363076913017e-01"/>
+            </geometry>
+            <geometry s="5.3568461316653915e-01" x="7.7099076764333759e+01" y="-8.5126232937218873e+01" hdg="-1.3467801777019943e+00" length="8.0493773388846730e+00">
+                <arc curvature="1.4214363076913017e-01"/>
+            </geometry>
+            <geometry s="8.5850619520512126e+00" x="8.2542754419275028e+01" y="-9.0454625159242312e+01" hdg="-2.0261245732216793e-01" length="2.6831257796282242e+00">
+                <spiral curvStart="1.4214363076913017e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="1.1268187731679436e+01" x="8.5213922424650079e+01" y="-9.0656583352827838e+01" hdg="-1.1917837258862640e-02" length="9.6744087126233715e+00">
+                <line/>
+            </geometry>
+            <geometry s="2.0942596444302808e+01" x="9.4887644093834879e+01" y="-9.0771878652070399e+01" hdg="-1.1917837258863528e-02" length="2.7008777873226073e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="1.4402622209482727e-01"/>
+            </geometry>
+            <geometry s="2.3643474231625415e+01" x="9.7580212534074590e+01" y="-9.0629324288631238e+01" hdg="1.8258077476509227e-01" length="8.1026333619678219e+00">
+                <arc curvature="1.4402622209482727e-01"/>
+            </geometry>
+            <geometry s="3.1746107593593237e+01" x="1.0309352508739643e+02" y="-8.5325050315532408e+01" hdg="1.3495724469088266e+00" length="2.7005337594522771e+00">
+                <spiral curvStart="1.4402622209482727e-01" curvEnd="1.8345529994578946e-05"/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-4.1336577750049974e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-5.0000000000000000e-01" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{9c440e5b-39ed-39a8-8ca1-d4186a163318}" travelDir="backward">
+                                <successor id="1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="0" leftBoundary="1"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="Road 7" length="1.5838109514358413e+01" id="7" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="10" contactPoint="start"/>
+            <successor elementType="road" elementId="9" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="9.0349998474121094e+01" y="-2.2670000076293945e+01" hdg="-1.5472588785085719e+00" length="5.7746840118599119e+00">
+                <line/>
+            </geometry>
+            <geometry s="5.7746840118599119e+00" x="9.0485907250438757e+01" y="-2.8443084541408787e+01" hdg="-1.5472588785085719e+00" length="9.2502377758505050e-01">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-2.3453148358734893e-01"/>
+            </geometry>
+            <geometry s="6.6997077894449628e+00" x="9.0474242807823245e+01" y="-2.9367551077084705e+01" hdg="-1.6557324779638698e+00" length="2.7750713327551511e+00">
+                <arc curvature="-2.3453148358734893e-01"/>
+            </geometry>
+            <geometry s="9.4747791222001148e+00" x="8.9386601575828763e+01" y="-3.1867555924164321e+01" hdg="-2.3065740746956571e+00" length="9.2502377758505050e-01">
+                <spiral curvStart="-2.3453148358734893e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="1.0399802899785165e+01" x="8.8718183286013698e+01" y="-3.2506297988417828e+01" hdg="-2.4150476741509554e+00" length="9.4329234032718523e-01">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-1.8571768164548130e-01"/>
+            </geometry>
+            <geometry s="1.1343095240112349e+01" x="8.7995351732812168e+01" y="-3.3111862448521357e+01" hdg="-2.5026407074307082e+00" length="2.8298770209815558e+00">
+                <arc curvature="-1.8571768164548130e-01"/>
+            </geometry>
+            <geometry s="1.4172972261093905e+01" x="8.5393533895516086e+01" y="-3.4139533067085566e+01" hdg="-3.0281989071092239e+00" length="9.4329234032718523e-01">
+                <spiral curvStart="-1.8571768164548130e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="1.5116264601421090e+01" x="8.4451988882341269e+01" y="-3.4191367011656411e+01" hdg="-3.1157919403889753e+00" length="7.2184491293732123e-01">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-3.5205311231171166e-01" b="-5.4359246667067110e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="2.6191348700098058e+00" a="-4.9442731076489144e-01" b="-5.4359246667067110e-02" c="-6.1581026787634529e-03" d="0.0000000000000000e+00"/>
+            <elevation s="7.4595234358088955e+00" a="-9.0182760039492194e-01" b="-1.1397446625367370e-01" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="7.6862642301578319e+00" a="-9.2767026140877595e-01" b="-1.1397446625367384e-01" c="-7.1201080210817301e-03" d="0.0000000000000000e+00"/>
+            <elevation s="1.2980134384654846e+01" a="-1.7305777498154955e+00" b="-1.8936032095287256e-01" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{6a4b4961-ae6a-3b57-b222-a9e695082b9f}" travelDir="forward">
+                                <predecessor id="1" virtual="false"/>
+                                <successor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="Road 8" length="8.3788590707176937e+01" id="8" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="3" contactPoint="end"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="6.0139999389648445e+01" y="-1.5960000038146971e+01" hdg="3.4060969486354509e-02" length="2.1866654114343840e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-1.8270989756702180e-01"/>
+            </geometry>
+            <geometry s="2.1866654114343840e+00" x="6.2321636097197754e+01" y="-1.6030937122400104e+01" hdg="-1.6570173718190873e-01" length="6.5599962343031519e+00">
+                <arc curvature="-1.8270989756702180e-01"/>
+            </geometry>
+            <geometry s="8.7466616457375359e+00" x="6.6775725798267260e+01" y="-2.0306837768051004e+01" hdg="-1.3642779771914864e+00" length="2.1866654114343840e+00">
+                <spiral curvStart="-1.8270989756702180e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="1.0933327057171919e+01" x="6.6935626096948155e+01" y="-2.2483762821453329e+01" hdg="-1.5640406838597505e+00" length="5.7020834558441663e+01">
+                <line/>
+            </geometry>
+            <geometry s="6.7954161615613586e+01" x="6.7320835564996145e+01" y="-7.9503296206135644e+01" hdg="-1.5640406838597509e+00" length="2.3880439293847746e+00">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-1.6277708431747442e-01"/>
+            </geometry>
+            <geometry s="7.0342205544998365e+01" x="6.7182614913842031e+01" y="-8.1883322996132463e+01" hdg="-1.7584000978834000e+00" length="7.1641317881543243e+00">
+                <arc curvature="-1.6277708431747442e-01"/>
+            </geometry>
+            <geometry s="7.7506337333152686e+01" x="6.2469925844626907e+01" y="-8.6736799356359072e+01" hdg="-2.9245565820252954e+00" length="2.3880439293847746e+00">
+                <spiral curvStart="-1.6277708431747442e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="7.9894381262537465e+01" x="6.0094997406005859e+01" y="-8.6944999694824219e+01" hdg="-3.1189159960489548e+00" length="5.2477898552857526e-02">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="1.4875702490159052e+01"/>
+            </geometry>
+            <geometry s="7.9946859161090316e+01" x="6.0043479828103990e+01" y="-8.6952923709457195e+01" hdg="-2.7285931929584262e+00" length="1.5743369565857257e-01">
+                <arc curvature="1.4875702490159053e+01"/>
+            </geometry>
+            <geometry s="8.0104292856748884e+01" x="6.0045110988213040e+01" y="-8.7076756260042686e+01" hdg="-3.8665637441525558e-01" length="5.2477898552857526e-02">
+                <spiral curvStart="1.4875702490159053e+01" curvEnd="1.7763568394002505e-15"/>
+            </geometry>
+            <geometry s="8.0156770755301736e+01" x="6.0096819410484372e+01" y="-8.7083320550330953e+01" hdg="3.6664286752099429e-03" length="3.6318199518751868e+00">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{60c5c15d-d42b-3070-a3a9-bfa082723d1d}" travelDir="forward">
+                                <predecessor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object id="26" name="" s="1.3026589131388187e+01" t="3.8370023659690560e+00" zOffset="3.5527136788005009e-15" hdg="1.5660438578852622e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.9106803789674842e+00" length="5.5000400455902678e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="20" name="" s="1.3111541739038815e+01" t="-7.1778914944902681e+00" zOffset="0.0000000000000000e+00" hdg="-1.5763370840730841e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8592259389223571e+00" length="5.5000093837469635e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="30" name="" s="1.5937206827402077e+01" t="3.8231984816655569e+00" zOffset="3.5527136788005009e-15" hdg="1.5660537683017286e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.9106750458955304e+00" length="5.5000111026739376e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="22" name="" s="1.5970691891630590e+01" t="-7.1937281025714270e+00" zOffset="0.0000000000000000e+00" hdg="-1.5763352207308645e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8592156840603558e+00" length="5.5000040436800646e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="24" name="" s="1.8829842044222413e+01" t="-7.2095647106525647e+00" zOffset="0.0000000000000000e+00" hdg="-1.5763333573886535e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8592054291785907e+00" length="5.5000091922620342e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="28" name="" s="1.8847855040297649e+01" t="3.8093943911977561e+00" zOffset="3.5527136788005009e-15" hdg="1.5660525815663393e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.9107295608201014e+00" length="5.5000144349363183e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="68" name="" s="2.3009632968550704e+01" t="-7.2670998588066880e+00" zOffset="0.0000000000000000e+00" hdg="-1.5757262888030008e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.9028683854602448e+00" length="5.5000195292532723e+00">
+                <parkingSpace>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="64" name="" s="2.3039511361532409e+01" t="3.7515044189686222e+00" zOffset="3.5527136788005009e-15" hdg="1.5660489799163662e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.9107132129798785e+00" length="5.5000111495456707e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="70" name="" s="2.5912434631882835e+01" t="-7.2814002689224679e+00" zOffset="0.0000000000000000e+00" hdg="-1.5757296833517418e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.9028497333324523e+00" length="5.5000294172038267e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="66" name="" s="2.5950167203648444e+01" t="3.7377002769597567e+00" zOffset="3.5527136788005009e-15" hdg="1.5660451961931403e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.9106730104894112e+00" length="5.5000111912541598e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="62" name="" s="2.8860811395769538e+01" t="3.7238656953807805e+00" zOffset="3.5527136788005009e-15" hdg="1.5660453300704937e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.9107333084193101e+00" length="5.5000356220320157e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="72" name="" s="3.8965341580229321e+01" t="3.6507496532856436e+00" zOffset="0.0000000000000000e+00" hdg="1.5723387423474433e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8941875183799652e+00" length="5.5000341648090796e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="58" name="" s="4.3049615817463319e+01" t="3.5753962354900892e+00" zOffset="0.0000000000000000e+00" hdg="1.5651391227044340e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8952664549027034e+00" length="5.5000097226595130e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="74" name="" s="4.5911631054440029e+01" t="-7.2781742306981059e+00" zOffset="0.0000000000000000e+00" hdg="-1.5772528618557040e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8956300519318035e+00" length="5.5000119239607841e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="56" name="" s="4.5944774035025212e+01" t="3.5590417016077396e+00" zOffset="0.0000000000000000e+00" hdg="1.5651419058438252e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8952512059487105e+00" length="5.5000499309578998e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="76" name="" s="4.8807139651473264e+01" t="-7.2968734092252134e+00" zOffset="0.0000000000000000e+00" hdg="-1.5772691363389375e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8956613958185926e+00" length="5.5000358652954162e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="60" name="" s="4.8839932252587083e+01" t="3.5426871677253899e+00" zOffset="0.0000000000000000e+00" hdg="1.5651446888667842e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8952653726826725e+00" length="5.5000258043845633e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="32" name="" s="5.3053256090202083e+01" t="-7.3394792401100446e+00" zOffset="0.0000000000000000e+00" hdg="-1.5762484385003588e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.9034164924000621e+00" length="5.5000051029304728e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="40" name="" s="5.3074349934944003e+01" t="3.5934280324108414e+00" zOffset="0.0000000000000000e+00" hdg="1.5651361218685054e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8952219339275658e+00" length="5.5000056093468856e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="34" name="" s="5.5956627266072509e+01" t="-7.3553094114341988e+00" zOffset="0.0000000000000000e+00" hdg="-1.5762430901523055e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.9034480912363705e+00" length="5.5000206727980085e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="42" name="" s="5.5969507946341594e+01" t="3.5770429816467555e+00" zOffset="0.0000000000000000e+00" hdg="1.5651403690461068e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8952101419058351e+00" length="5.5000032718896961e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="36" name="" s="5.8859998441943034e+01" t="-7.3711395827583459e+00" zOffset="0.0000000000000000e+00" hdg="-1.5762377418043272e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.9034098382865210e+00" length="5.5000360825751571e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="38" name="" s="5.8864666370067773e+01" t="3.5607189646461563e+00" zOffset="0.0000000000000000e+00" hdg="1.5651407014116467e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8952119688555626e+00" length="5.5000032698769274e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="44" name="" s="6.3054786304540777e+01" t="-7.4076306969490844e+00" zOffset="0.0000000000000000e+00" hdg="-1.5780627022734099e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8869632298634116e+00" length="5.5000006861026307e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="50" name="" s="6.3056185737474920e+01" t="3.6446178211072890e+00" zOffset="-5.9211896411326989e-16" hdg="1.5675834963004032e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8979213934900798e+00" length="5.4999861437285205e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="46" name="" s="6.5941627697115550e+01" t="-7.4285907109110880e+00" zOffset="0.0000000000000000e+00" hdg="-1.5780681025465790e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8869632217647592e+00" length="5.5000006710946892e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="52" name="" s="6.5954077270745529e+01" t="3.6353250613299650e+00" zOffset="-1.7763568394002505e-15" hdg="1.5675863614962440e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8979373389241658e+00" length="5.5000343116491308e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="54" name="" s="6.8770777212776508e+01" t="3.6330965647308631e+00" zOffset="-2.9605946617476718e-15" hdg="1.5903098802242239e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8979675396034565e+00" length="5.5000343940516103e+00">
+                <parkingSpace>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="48" name="" s="7.9907875517778024e+01" t="-6.5197413234875370e+00" zOffset="0.0000000000000000e+00" hdg="-4.9000348106670283e-02" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8869393201160136e+00" length="5.5000220715073240e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="78" name="" s="8.0114287404615453e+01" t="-6.8707241084408963e+00" zOffset="0.0000000000000000e+00" hdg="-1.3228804476874161e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="parkingSpace" width="2.8107251047647850e+00" length="5.5000495624049677e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+            <object id="80" name="" s="8.3215158401515637e+01" t="-6.7408043029012390e+00" zOffset="0.0000000000000000e+00" hdg="-1.5786884654670206e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8107072883161592e+00" length="5.5000129066577159e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+        </objects>
+    </road>
+    <road name="Road 9" length="1.5644914973458528e+01" id="9" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="7" contactPoint="end"/>
+            <successor elementType="road" elementId="5" contactPoint="end"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="8.3729995727539063e+01" y="-3.4209999084472656e+01" hdg="-3.1157919403889736e+00" length="8.7704181994023722e-01">
+                <line/>
+            </geometry>
+            <geometry s="8.7704181994023722e-01" x="8.2853245804602679e+01" y="-3.4232624878494725e+01" hdg="-3.1157919403889740e+00" length="8.5260639991385556e-01">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-2.2608700471465962e-01"/>
+            </geometry>
+            <geometry s="1.7296482198540928e+00" x="8.2001008404190486e+01" y="-3.4227235287789746e+01" hdg="3.0710117532120762e+00" length="2.5578191997415667e+00">
+                <arc curvature="-2.2608700471465962e-01"/>
+            </geometry>
+            <geometry s="4.2874674195956590e+00" x="7.9640127044075456e+01" y="-3.3339331964048206e+01" hdg="2.4927220717408574e+00" length="8.5260639991385556e-01">
+                <spiral curvStart="-2.2608700471465962e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="5.1400738195095146e+00" x="7.8995550349035454e+01" y="-3.2781785088386052e+01" hdg="2.3963404581623262e+00" length="8.5260639991386478e-01">
+                <spiral curvStart="0.0000000000000000e+00" curvEnd="-2.2608700471465717e-01"/>
+            </geometry>
+            <geometry s="5.9926802194233790e+00" x="7.8388100982876921e+01" y="-3.2184003437695019e+01" hdg="2.2999588445837897e+00" length="2.5578191997415947e+00">
+                <arc curvature="-2.2608700471465717e-01"/>
+            </geometry>
+            <geometry s="8.5504994191649732e+00" x="7.7313702062100830e+01" y="-2.9901942950353551e+01" hdg="1.7216691631125709e+00" length="8.5260639991386478e-01">
+                <spiral curvStart="-2.2608700471465717e-01" curvEnd="0.0000000000000000e+00"/>
+            </geometry>
+            <geometry s="9.4031058190788386e+00" x="7.7239975543725336e+01" y="-2.9052883450178481e+01" hdg="1.6252875495340344e+00" length="6.2418091543796894e+00">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-2.2717648376514905e+00" b="-1.9211662055190745e-01" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="2.4406811303886617e+00" a="-2.7406602482665696e+00" b="-1.9211662055190748e-01" c="2.8401213138080379e-03" d="0.0000000000000000e+00"/>
+            <elevation s="7.4177045127069725e+00" a="-3.6264771924852250e+00" b="-1.6384592017702218e-01" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="7.4594896966851447e+00" a="-3.6333235244038948e+00" b="-1.6384592017702099e-01" c="1.6546699825209836e-02" d="0.0000000000000000e+00"/>
+            <elevation s="1.2450549242931933e+01" a="-4.0388988002262476e+00" b="1.3252080659661521e-03" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{aaea3d62-1dad-3ff7-be6a-6dfb8b7689f1}" travelDir="forward">
+                                <predecessor id="-1" virtual="false"/>
+                                <successor id="1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object id="19" name="TopFloor" s="3.4332356517579297e+00" t="-1.4606929074767363e+00" zOffset="-1.6784517592227366e+00" hdg="-1.1133111174165080e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="+" type="-1" height="1.1251751415524918e+01" width="6.0820433186458260e+01" length="1.3082055258386833e+02"/>
+        </objects>
+    </road>
+    <road name="Road 10" length="5.8104969793474330e+00" id="10" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="7" contactPoint="start"/>
+            <successor elementType="junction" elementId="14"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="9.0349998474121094e+01" y="-2.2670000076293945e+01" hdg="1.5943337750812203e+00" length="5.8104969793474330e+00">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-3.5205311231171166e-01" b="5.4359246667067110e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="1.5209826231119172e+00" a="-2.6937364272564818e-01" b="5.4359246667067110e-02" c="-1.4393359530587542e-02" d="0.0000000000000000e+00"/>
+            <elevation s="4.1885796661943822e+00" a="-2.2678928835413764e-01" b="-2.2432119980569178e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-5.0000000000000000e-01" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{53c7cf34-dd9a-3a41-ad32-fe795f1f3a9e}" travelDir="backward">
+                                <predecessor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="0" leftBoundary="1"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="Road 12" length="7.6290756594023463e+00" id="12" junction="11">
+        <link>
+            <predecessor elementType="road" elementId="1" contactPoint="end"/>
+            <successor elementType="road" elementId="2" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="8.5062387556055000e+01" y="-8.7137802862594853e+01" hdg="-4.1103520360143975e-03" length="7.6290756594023463e+00">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{a0fb1584-24bf-394e-8b8e-6e2982e32b9e}" travelDir="forward">
+                                <predecessor id="-1" virtual="false"/>
+                                <successor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object id="88" name="" s="3.2092995416072694e+00" t="-6.5986343194156376e+00" zOffset="0.0000000000000000e+00" hdg="-1.5709152791631706e+00" roll="0.0000000000000000e+00" pitch="0.0000000000000000e+00" orientation="-" type="parkingSpace" width="2.8107007968528706e+00" length="5.5000491450117295e+00">
+                <parkingSpace>
+                    <marking side="right" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="front" type="solid" width="1.2500000000000000e-01" color="white"/>
+                    <marking side="left" type="solid" width="1.2500000000000000e-01" color="white"/>
+                </parkingSpace>
+            </object>
+        </objects>
+    </road>
+    <road name="Road 13" length="3.4323153813933067e+00" id="13" junction="11">
+        <link>
+            <predecessor elementType="road" elementId="0" contactPoint="end"/>
+            <successor elementType="road" elementId="2" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="9.0486035264716151e+01" y="-8.5008088103784104e+01" hdg="-1.5377256431009765e+00" length="4.9511871128518063e-02">
+                <line/>
+            </geometry>
+            <geometry s="4.9511871128518063e-02" x="9.0487672357700646e+01" y="-8.5057572902553090e+01" hdg="-1.5377256431009796e+00" length="1.6685510845040152e+00">
+                <arc curvature="4.5498813119350928e-01"/>
+            </geometry>
+            <geometry s="1.7180629556325333e+00" x="9.1140880629132042e+01" y="-8.6549621903473252e+01" hdg="-7.7855470336160471e-01" length="1.6650596041411145e+00">
+                <arc curvature="4.6511509221621211e-01"/>
+            </geometry>
+            <geometry s="3.3831225597736481e+00" x="9.2641887316077131e+01" y="-8.7168957450317805e+01" hdg="-4.1103520360152856e-03" length="4.9192821619658655e-02">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-1.1191008481748868e-01" b="2.2673445220929015e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="6.4879216397518902e-01" a="-9.7199731227829239e-02" b="2.2673445220929005e-02" c="2.6482055576474015e-02" d="0.0000000000000000e+00"/>
+            <elevation s="1.6394180902870155e+00" a="-4.8750935392979228e-02" b="7.5141066893100655e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="1.6892589201788353e+00" a="-4.5005842260070344e-02" b="7.5141066893100683e-02" c="-3.1363594426288416e-02" d="0.0000000000000000e+00"/>
+            <elevation s="2.8871615883455739e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{3756c9ca-7521-3d1a-bb4c-6f4d10e3c954}" travelDir="forward">
+                                <predecessor id="-1" virtual="false"/>
+                                <successor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="Road 15" length="7.5229631735923874e+00" id="15" junction="14">
+        <link>
+            <predecessor elementType="road" elementId="2" contactPoint="end"/>
+            <successor elementType="road" elementId="3" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="9.2167767978101026e+01" y="-1.4860060622131131e+01" hdg="3.1395301134474667e+00" length="7.5229631735923874e+00">
+                <arc curvature="2.7008018507606786e-03"/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="solid solid" width="1.2500000000000000e-01" material="standard" weight="standard" color="yellow" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{28ff80a8-76e0-3800-8417-9ae0bcc29858}" travelDir="forward">
+                                <predecessor id="-1" virtual="false"/>
+                                <successor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="Road 16" length="3.1280080179224110e+00" id="16" junction="14">
+        <link>
+            <predecessor elementType="road" elementId="2" contactPoint="end"/>
+            <successor elementType="road" elementId="10" contactPoint="end"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="9.2166176328968305e+01" y="-1.4860057342707250e+01" hdg="3.1395344121855153e+00" length="2.6282006378947429e-02">
+                <line/>
+            </geometry>
+            <geometry s="2.6282006378947429e-02" x="9.2139894378259328e+01" y="-1.4860003248031727e+01" hdg="3.1395344121855118e+00" length="1.5373375204459478e+00">
+                <arc curvature="5.2080858150258413e-01"/>
+            </geometry>
+            <geometry s="1.5636195268248954e+00" x="9.0760426958057863e+01" y="-1.5440423397695010e+01" hdg="-2.3429923216799216e+00" length="1.5384254257772303e+00">
+                <arc curvature="5.1723887933621071e-01"/>
+            </geometry>
+            <geometry s="3.1020449526021254e+00" x="9.0212628275516735e+01" y="-1.6834837837182462e+01" hdg="-1.5472588785085728e+00" length="2.5963065320285583e-02">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="7.1115777449404594e-01" a="0.0000000000000000e+00" b="2.3010336488700378e-17" c="-2.0725868567236147e-01" d="0.0000000000000000e+00"/>
+            <elevation s="1.3741809041208946e+00" a="-9.1110849913289979e-02" b="-2.7483460483367278e-01" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="1.5318508597122737e+00" a="-1.3444400985238944e-01" b="-2.7483460483367278e-01" c="1.3426976830474638e-01" d="0.0000000000000000e+00"/>
+            <elevation s="2.6388264975176070e+00" a="-2.7414571067934707e-01" b="2.2432119980569137e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-4.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{13f045d6-2f18-379c-ba95-3ee958aaff34}" travelDir="forward">
+                                <predecessor id="-1" virtual="false"/>
+                                <successor id="1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="0"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="Road 18" length="4.3063818473530180e+00" id="18" junction="17">
+        <link>
+            <predecessor elementType="road" elementId="4" contactPoint="start"/>
+            <successor elementType="road" elementId="6" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+00" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+00" x="7.6873627776293944e+01" y="-8.0305138882842300e+01" hdg="4.7013727053800496e+00" length="4.2221794241815447e-01">
+                <line/>
+            </geometry>
+            <geometry s="4.2221794241815447e-01" x="7.6868976601406160e+01" y="-8.0727331205690533e+01" hdg="4.7013727053800505e+00" length="1.7335271246038559e+00">
+                <arc curvature="-1.3716587021307526e-02"/>
+            </geometry>
+            <geometry s="2.1557450670220106e+00" x="7.6829274027623612e+01" y="-8.2460362771980954e+01" hdg="4.6775946297216251e+00" length="1.7283755489714709e+00">
+                <arc curvature="1.1008595831184460e-01"/>
+            </geometry>
+            <geometry s="3.8841206159934814e+00" x="7.6933344799314256e+01" y="-8.4182991546066447e+01" hdg="4.8678645083529108e+00" length="4.2226123135953691e-01">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+00" a="-3.9575681139150976e+00" b="-6.3386416393515388e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="7.1898745721078416e-01" a="-4.0031421522595760e+00" b="-6.3386416393515235e-02" c="1.4311922671678416e-03" d="0.0000000000000000e+00"/>
+            <elevation s="2.1519337743578948e+00" a="-4.0910327668023445e+00" b="-5.9284773016748317e-02" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <elevation s="2.1573610455144836e+00" a="-4.0913545213409632e+00" b="-5.9284773016780083e-02" c="2.0770768246127107e-02" d="0.0000000000000000e+00"/>
+            <elevation s="3.5844814176228734e+00" a="-4.1336577750049974e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <shape s="0.0000000000000000e+00" t="-3.5000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+00" a="0.0000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+            <laneSection s="0.0000000000000000e+00" singleSide="false">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+00" a="3.5000000000000000e+00" b="0.0000000000000000e+00" c="0.0000000000000000e+00" d="0.0000000000000000e+00"/>
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+00" max="4.0000000000000000e+01" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+00" laneId="{32c19b6a-1afe-39be-a451-5e92cdc09921}" travelDir="backward">
+                                <predecessor id="-1" virtual="false"/>
+                                <successor id="1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+00" type="none" width="0.0000000000000000e+00" material="standard" weight="standard" color="standard" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="0" leftBoundary="1"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+    </road>
+    <junction id="11" name="junction11">
+        <connection id="0" incomingRoad="1" connectingRoad="12" contactPoint="start">
+            <laneLink from="-1" to="-1"/>
+        </connection>
+        <connection id="1" incomingRoad="0" connectingRoad="13" contactPoint="start">
+            <laneLink from="-1" to="-1"/>
+        </connection>
+        <userData>
+            <vectorJunction junctionId="{12355824-48fc-4fb1-97c3-cf2efec5a8b4}"/>
+        </userData>
+    </junction>
+    <junction id="14" name="junction14">
+        <connection id="0" incomingRoad="2" connectingRoad="15" contactPoint="start">
+            <laneLink from="-1" to="-1"/>
+        </connection>
+        <connection id="1" incomingRoad="2" connectingRoad="16" contactPoint="start">
+            <laneLink from="-1" to="-1"/>
+        </connection>
+        <userData>
+            <vectorJunction junctionId="{19efb9e4-094c-482a-9783-53b600c62ee2}"/>
+        </userData>
+    </junction>
+    <junction id="17" name="junction17">
+        <connection id="0" incomingRoad="6" connectingRoad="18" contactPoint="end">
+            <laneLink from="1" to="1"/>
+        </connection>
+        <userData>
+            <vectorJunction junctionId="{2e022532-d68f-42b9-b425-88e56c699501}"/>
+        </userData>
+    </junction>
+</OpenDRIVE>
