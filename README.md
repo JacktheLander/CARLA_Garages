@@ -4,8 +4,8 @@ Assets, RoadRunner Exports, and Levels,  are located in /Content/ </br>
 RoadRunner texture and fbx exports located at /Content/Garages/RoadRunner/
 
 ## Purchased asset packs
-- ModularParkingGarage $5 
-- ParkingGarage $30
+- ModularParkingGarage
+- ParkingGarage
 
 ## Built Levels in Garages
 Located at /Content/Garages
