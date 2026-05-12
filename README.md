@@ -1,7 +1,7 @@
 # ModularParkGarage
 Base Unreal project for CARLA developments </br>
 Assets, RoadRunner Exports, and Levels,  are located in [/ModularParkGarage/Content/](/ModularParkGarage/Content/) </br>
-RoadRunner texture and fbx exports located at [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner)
+RoadRunner texture and fbx imports pre-annotation located at [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner)
 
 ## Purchased asset packs
 - [ModularParkingGarage](https://www.fab.com/listings/3b4e78f1-a19a-4604-b464-caf8d27a4f2c)
