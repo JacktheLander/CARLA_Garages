@@ -12,12 +12,12 @@ Located at [/Content/Garages](/Content/Garages)
 
 ### Garage1
 2 story underground, Completed 4/26 &emsp; [Download](/ModularParkGarage/Content/Garages/Garage1.umap)
-<img src="Screenshots/Garage1/HighresScreenshot00006.png" />
+</br><img src="Screenshots/Garage1/HighresScreenshot00006.png" />
 
 ### Garage2
 1 story, Completed 4/30 &emsp; [Download](/ModularParkGarage/Content/Garages/Garage2.umap)
-<img src="Screenshots/Garage2/HighresScreenshot00002.png" />
+</br><img src="Screenshots/Garage2/HighresScreenshot00002.png" />
 
 ### Top Floor
 San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download](/ModularParkGarage/Content/Garages/TopFloor.umap)
-<img src="Screenshots/TopFloor/HighresScreenshot00001.png" />
+</br><img src="Screenshots/TopFloor/HighresScreenshot00001.png" />
