@@ -8,7 +8,7 @@ RoadRunner texture and fbx exports located at /Content/Garages/RoadRunner/
 - [ParkingGarage](https://www.fab.com/listings/a7ebb22d-0c83-4c54-b12c-4050b559457c)
 
 ## Built Levels in Garages
-Located at [/Content/Garages](/Content/Garages)
+Located at [/Content/Garages](/ModularParkGarage/Content/Garages)
 
 ### Garage1
 2 story underground, Completed 4/26 &emsp; [Download](/ModularParkGarage/Content/Garages/Garage1.umap) </br>
