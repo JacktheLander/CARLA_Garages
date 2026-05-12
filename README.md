@@ -1,8 +1,8 @@
 # ModularParkGarage
 Base Unreal project for CARLA developments </br>
 Assets and Levels: &emsp; [/ModularParkGarage/Content/](/ModularParkGarage/Content/) </br>
-RoadRunner texture and fbx imports pre-annotation: &emsp; [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner)
-CARLA ready annotated projects: &emsp; [/Exports/]
+RoadRunner texture and fbx imports pre-annotation: &emsp; [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner) </br>
+CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
 
 ## Purchased asset packs
 - [ModularParkingGarage](https://www.fab.com/listings/3b4e78f1-a19a-4604-b464-caf8d27a4f2c)
