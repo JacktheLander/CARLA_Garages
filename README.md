@@ -19,5 +19,5 @@ Located at [/Content/Garages](/Content/Garages)
 <img src="Screenshots/Garage2/HighresScreenshot00002.png" />
 
 ### Top Floor
-San Jose Demo, top floor isolated, Completed 5/8 [Download](/ModularParkGarage/Content/Garages/TopFloor.umap)
+San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download](/ModularParkGarage/Content/Garages/TopFloor.umap)
 <img src="Screenshots/TopFloor/HighresScreenshot00001.png" />
