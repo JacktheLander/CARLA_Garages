@@ -1,0 +1,13 @@
+﻿{
+    "source_fbx":  "D:\\Unreal\\Projects\\SanJose\\Content\\ParkingGarage\\Maps\\RoadRunnerExport\\TopFloor\\TopFloor.fbx",
+    "target_fbx":  "C:\\Users\\Jaxba\\OneDrive\\Documents\\SanJose\\Assets\\Codex\\TopFloor.fbx",
+    "target_meta":  "C:\\Users\\Jaxba\\OneDrive\\Documents\\SanJose\\Assets\\Codex\\TopFloor.fbx.rrmeta",
+    "material_count":  35,
+    "image_path_count":  73,
+    "missing_image_paths":  0,
+    "outside_codex_paths":  0,
+    "roadrunner_override_count":  35,
+    "car_stopper_base_color":  "\u003cPROJECT\u003e/Assets/Codex/M_CarStopper_Yellow_BaseColor.png",
+    "stale_path_scan":  "no D:\\Unreal\\CodexWorkspace, ..\\exports\\textures, Users\\GI, or Desktop\\ParkingGarage matches",
+    "generated_at":  "2026-05-07T19:17:55"
+}

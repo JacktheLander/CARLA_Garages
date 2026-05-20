@@ -1,0 +1,220 @@
+{
+  "source_fbx": "D:\\Unreal\\Projects\\SanJose\\Content\\ParkingGarage\\Maps\\RoadRunnerExport\\TopFloor\\TopFloor.fbx",
+  "target_fbx": "C:\\Users\\Jaxba\\OneDrive\\Documents\\SanJose\\Assets\\Codex\\TopFloor.fbx",
+  "target_meta": "C:\\Users\\Jaxba\\OneDrive\\Documents\\SanJose\\Assets\\Codex\\TopFloor.fbx.rrmeta",
+  "backup_meta": "C:\\Users\\Jaxba\\OneDrive\\Documents\\SanJose\\Assets\\Codex\\TopFloor.fbx.rrmeta.backup-pre-new-overrides-20260507-191656",
+  "override_count": 35,
+  "entries": [
+    {
+      "material": "Dots Stroke",
+      "texture": "Dots_Stroke_Fallback_BaseColor.png",
+      "uuid": "{66f8faab-14a1-4428-9aec-f2b1aeefa885}",
+      "asset_path": "<PROJECT>/Assets/Codex/Dots_Stroke_Fallback_BaseColor.png"
+    },
+    {
+      "material": "Fbx Default Material",
+      "texture": "Fbx_Default_Material_Fallback_BaseColor.png",
+      "uuid": "{23ec972c-3632-42e7-9140-a46adc54d763}",
+      "asset_path": "<PROJECT>/Assets/Codex/Fbx_Default_Material_Fallback_BaseColor.png"
+    },
+    {
+      "material": "MI_WallPaintGrey",
+      "texture": "MI_WallPaintGrey_BaseColor_1.png",
+      "uuid": "{a83a67fa-4e0f-481f-8364-a390fb909260}",
+      "asset_path": "<PROJECT>/Assets/Codex/MI_WallPaintGrey_BaseColor_1.png"
+    },
+    {
+      "material": "M_Asphalt",
+      "texture": "Asphalt1_Diff.png",
+      "uuid": "{26c75bb2-3b57-4866-8da7-05ba7ac28f2e}",
+      "asset_path": "<PROJECT>/Assets/Codex/Asphalt1_Diff.png"
+    },
+    {
+      "material": "M_Bench",
+      "texture": "M_Bench.PNG",
+      "uuid": "{451cf9bf-4828-4fad-8ff2-4049a9d5fa77}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Bench.PNG"
+    },
+    {
+      "material": "M_CarStopper",
+      "texture": "M_CarStopper_Yellow_BaseColor.png",
+      "uuid": "{28be2e93-3a13-4476-bc03-9b8c51473eeb}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_CarStopper_Yellow_BaseColor.png"
+    },
+    {
+      "material": "M_Cladding",
+      "texture": "M_Cladding_Fallback_BaseColor.png",
+      "uuid": "{b2ff6b42-ef92-4cdf-b65e-eb90e29557ac}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Cladding_Fallback_BaseColor.png"
+    },
+    {
+      "material": "M_Cladding_0",
+      "texture": "M_Cladding_0_Fallback_BaseColor.png",
+      "uuid": "{ae88746e-74c5-448b-9498-91db9ad3e591}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Cladding_0_Fallback_BaseColor.png"
+    },
+    {
+      "material": "M_Cladding_3",
+      "texture": "M_Cladding_3_Fallback_BaseColor.png",
+      "uuid": "{7857a4c0-cd43-4079-9668-b21bf72e7de3}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Cladding_3_Fallback_BaseColor.png"
+    },
+    {
+      "material": "M_Concrete",
+      "texture": "Concrete1_Diff.png",
+      "uuid": "{e147e9dc-6a7e-4075-bc20-269bf7d8b67a}",
+      "asset_path": "<PROJECT>/Assets/Codex/Concrete1_Diff.png"
+    },
+    {
+      "material": "M_Cone",
+      "texture": "MI_TrafficCone_BaseColor_0.png",
+      "uuid": "{ce26b6e1-e7bc-4921-b05b-25524b50df47}",
+      "asset_path": "<PROJECT>/Assets/Codex/MI_TrafficCone_BaseColor_0.png"
+    },
+    {
+      "material": "M_Delineator",
+      "texture": "M_Delineator.PNG",
+      "uuid": "{fedf0bf8-81b3-4d9f-8f5e-1c474fdc6967}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Delineator.PNG"
+    },
+    {
+      "material": "M_Door",
+      "texture": "M_Door.PNG",
+      "uuid": "{2af9e4f2-72df-4197-9595-4583f1bbaaef}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Door.PNG"
+    },
+    {
+      "material": "M_Fan",
+      "texture": "M_Fan.PNG",
+      "uuid": "{6b0a49b7-bb69-49a3-87b5-fbd45b556b22}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Fan.PNG"
+    },
+    {
+      "material": "M_Garbage_A",
+      "texture": "M_Garbage_A.PNG",
+      "uuid": "{ffb98b3d-d4f9-473a-a924-4f2e4ceb7d98}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Garbage_A.PNG"
+    },
+    {
+      "material": "M_Garbage_C",
+      "texture": "M_Garbage_B.PNG",
+      "uuid": "{8f6942c9-e67a-4fb4-9705-ad091311aaae}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Garbage_B.PNG"
+    },
+    {
+      "material": "M_Glass",
+      "texture": "M_Glass_BaseColor_1.png",
+      "uuid": "{432a896e-31a9-4790-be19-435c38a4408e}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Glass_BaseColor_1.png"
+    },
+    {
+      "material": "M_Gravel",
+      "texture": "M_Gravel_Fallback_BaseColor.png",
+      "uuid": "{57a74fdc-ce64-40b5-ba47-e3f3cfbc4c8a}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Gravel_Fallback_BaseColor.png"
+    },
+    {
+      "material": "M_GroundShapes",
+      "texture": "M_GroundShapes.PNG",
+      "uuid": "{6885faf6-fb72-4c37-bee7-770dab893dd0}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_GroundShapes.PNG"
+    },
+    {
+      "material": "M_Pavement",
+      "texture": "M_Pavement.PNG",
+      "uuid": "{a4339461-23cc-4546-b572-eeed901b510d}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Pavement.PNG"
+    },
+    {
+      "material": "M_Pavement_1",
+      "texture": "M_Pavement.PNG",
+      "uuid": "{a4339461-23cc-4546-b572-eeed901b510d}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Pavement.PNG"
+    },
+    {
+      "material": "M_Pavement_2",
+      "texture": "M_Pavement.PNG",
+      "uuid": "{a4339461-23cc-4546-b572-eeed901b510d}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Pavement.PNG"
+    },
+    {
+      "material": "M_Pavement_4",
+      "texture": "M_Pavement.PNG",
+      "uuid": "{a4339461-23cc-4546-b572-eeed901b510d}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Pavement.PNG"
+    },
+    {
+      "material": "M_Sign_Exit",
+      "texture": "M_Sign_Exit_EmissiveColor_0.png",
+      "uuid": "{551ac9b2-969f-435f-9456-acbd917b3c4b}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Sign_Exit_EmissiveColor_0.png"
+    },
+    {
+      "material": "M_Stair",
+      "texture": "Concrete1_Diff.png",
+      "uuid": "{e147e9dc-6a7e-4075-bc20-269bf7d8b67a}",
+      "asset_path": "<PROJECT>/Assets/Codex/Concrete1_Diff.png"
+    },
+    {
+      "material": "M_Structure",
+      "texture": "M_Structure_BaseColor_0.png",
+      "uuid": "{efb70734-9bc0-44b7-ac49-34fba0c48c9f}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Structure_BaseColor_0.png"
+    },
+    {
+      "material": "M_Tiles",
+      "texture": "Concrete1_Diff.png",
+      "uuid": "{e147e9dc-6a7e-4075-bc20-269bf7d8b67a}",
+      "asset_path": "<PROJECT>/Assets/Codex/Concrete1_Diff.png"
+    },
+    {
+      "material": "M_Vent",
+      "texture": "MI_Ventshaft_BaseColor_0.png",
+      "uuid": "{83210257-d4a8-4095-a309-2cbf231c77ed}",
+      "asset_path": "<PROJECT>/Assets/Codex/MI_Ventshaft_BaseColor_0.png"
+    },
+    {
+      "material": "M_Vent_2",
+      "texture": "MI_Ventshaft_BaseColor_0.png",
+      "uuid": "{83210257-d4a8-4095-a309-2cbf231c77ed}",
+      "asset_path": "<PROJECT>/Assets/Codex/MI_Ventshaft_BaseColor_0.png"
+    },
+    {
+      "material": "M_WallPaint",
+      "texture": "M_WallPaint_BaseColor_0.png",
+      "uuid": "{0930e3ab-5494-427b-be03-eaa9dac50c9c}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_WallPaint_BaseColor_0.png"
+    },
+    {
+      "material": "M_WallPaint_1",
+      "texture": "M_WallPaint_BaseColor_1.png",
+      "uuid": "{fff60bf6-f35b-445f-8816-f40202c1251e}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_WallPaint_BaseColor_1.png"
+    },
+    {
+      "material": "M_WallPaint_2",
+      "texture": "M_WallPaint_BaseColor_2.png",
+      "uuid": "{d6ffe8de-57e0-46a6-925b-93ed3268bc91}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_WallPaint_BaseColor_2.png"
+    },
+    {
+      "material": "M_Wire",
+      "texture": "M_Wire.PNG",
+      "uuid": "{84457f0d-cf0c-4b1e-b346-4752cfcc6f4b}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Wire.PNG"
+    },
+    {
+      "material": "M_Wire_1",
+      "texture": "M_Wire.PNG",
+      "uuid": "{84457f0d-cf0c-4b1e-b346-4752cfcc6f4b}",
+      "asset_path": "<PROJECT>/Assets/Codex/M_Wire.PNG"
+    },
+    {
+      "material": "Material",
+      "texture": "Material_Fallback_BaseColor.png",
+      "uuid": "{9a26fb7b-f45f-4a62-979a-ed948442436a}",
+      "asset_path": "<PROJECT>/Assets/Codex/Material_Fallback_BaseColor.png"
+    }
+  ],
+  "yellow_car_stopper_texture": "C:\\Users\\Jaxba\\OneDrive\\Documents\\SanJose\\Assets\\Codex\\M_CarStopper_Yellow_BaseColor.png"
+}
