@@ -20,11 +20,11 @@ Located at [/Content/Garages](/ModularParkGarage/Content/Garages)
 </br><img src="Screenshots/Garage2/HighresScreenshot00002.png" />
 
 ### Top Floor
-San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/TopFloor.umap) &emsp; [Download Annotated](/Exports/TopFloor/)
+San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/TopFloor.umap) &emsp; [Download Annotated](/Exports/SanJose/)
 </br><img src="Screenshots/TopFloor/HighresScreenshot00001.png" />
 
 ### San Jose
-San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [Download Unreal](/Exports/SanJose/)
+San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [Download Unreal](/Exports/SanJose(Full)/)
 </br><img src="Screenshots/SanJose/SanJose3.jpg" />
 
 ### Adi's Garage
