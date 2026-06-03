@@ -1,4 +1,5 @@
 # 3D Garage Annotation for Autonomous Vehicle Training with CARLA
+<em>By Jack Landers<em>
 <br>
 'ModularParkGarage' is the base Unreal project for CARLA developments </br>
 Assets and Levels: &emsp; [/ModularParkGarage/Content/](/ModularParkGarage/Content/) </br>
@@ -29,10 +30,10 @@ San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](/Modul
 </br><img src="Screenshots/TopFloor/HighresScreenshot00001.png" />
 
 ### San Jose
-San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
+San Jose Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
 </br><img src="Screenshots/SanJose/SanJose3.jpg" />
 
 ### Adi's Garage
-Garage on hill, Completed 6/1 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Adi.umap) &emsp; [CARLA Annotated](/Exports/Adi/)
+Garage on hill, Unreal project by Adi Thakrar, Completed 6/1 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Adi.umap) &emsp; [CARLA Annotated](/Exports/Adi/)
 </br><img src="Screenshots/Adi/HighresScreenshot00008.png" />
 
