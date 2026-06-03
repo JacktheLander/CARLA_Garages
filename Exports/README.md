@@ -1,5 +1,7 @@
 # Annotated garages validated and ready for CARLA
 
+**Texture .png files must remain in the same folder as the annotated .fbx or it will lose reference and show a white shape**
+
 ### Top Floor
 San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](./ModularParkGarage/Content/Garages/TopFloor.umap)
 <img src="../Screenshots/TopFloor/HighresScreenshot00001.png" />
