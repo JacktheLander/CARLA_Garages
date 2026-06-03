@@ -29,10 +29,6 @@ San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularPark
 San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/TopFloor.umap) &emsp; [CARLA Annotated](/Exports/SanJose/)
 </br><img src="Screenshots/TopFloor/HighresScreenshot00001.png" />
 
-### San Jose
-San Jose Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
-</br><img src="Screenshots/SanJose/SanJose3.jpg" />
-
 ### Adi's Garage
 Garage on hill, Unreal project by Adi Thakrar, Completed 6/1 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Adi.umap) &emsp; [CARLA Annotated](/Exports/Adi/)
 </br><img src="Screenshots/Adi/HighresScreenshot00008.png" />
