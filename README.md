@@ -13,7 +13,7 @@ CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
 ## Completed Garages
 
 ### San Jose
-San Jose Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
+Big City Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
 </br><img src="Screenshots/SanJose/SanJose3.jpg" />
 
 ### Garage2
