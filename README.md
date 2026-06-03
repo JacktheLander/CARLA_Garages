@@ -1,7 +1,7 @@
 # 3D Garage Annotation for Autonomous Vehicle Training with CARLA
 <em>By Jack Landers</em>
 </br></br>
-'ModularParkGarage' is the Unreal project for designing the virtual worlds </br>
+'ModularParkGarage' is the UE5 project for designing the virtual worlds </br>
 Assets and Levels: &emsp; [/ModularParkGarage/Content/](/ModularParkGarage/Content/) </br>
 RoadRunner texture and fbx imports pre-annotation: &emsp; [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner) </br>
 CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
