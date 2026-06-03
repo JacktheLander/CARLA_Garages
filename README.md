@@ -14,7 +14,7 @@ CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
 Located at [/Content/Garages](/ModularParkGarage/Content/Garages)
 
 ### San Jose
-San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
+San Jose Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
 </br><img src="Screenshots/SanJose/SanJose3.jpg" />
 
 ### Garage2
