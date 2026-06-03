@@ -1,3 +1,4 @@
 Exports/SanJose/*.fbx filter=lfs diff=lfs merge=lfs -text
 Exports/Adi/** filter=lfs diff=lfs merge=lfs -text
 Exports/SanJose(Full)/** filter=lfs diff=lfs merge=lfs -text
+ModularParkGarage/Content/Garages/*.umap filter=lfs diff=lfs merge=lfs -text
