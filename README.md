@@ -29,5 +29,5 @@ San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download](/ModularParkGarage/
 
 ### Adi's Garage
 Garage on hill, Completed 6/1 &emsp; [Download](/ModularParkGarage/Content/Garages/Adi.umap)
-</br><img src="Screenshots/Adi/HighresScreenshot00009.png" />
+</br><img src="Screenshots/Adi/HighresScreenshot00008.png" />
 
