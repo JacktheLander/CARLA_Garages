@@ -10,8 +10,7 @@ CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
 - [ModularParkingGarage](https://www.fab.com/listings/3b4e78f1-a19a-4604-b464-caf8d27a4f2c)
 - [ParkingGarage](https://www.fab.com/listings/a7ebb22d-0c83-4c54-b12c-4050b559457c)
 
-## Built Garages
-Unreal levels located at [/Content/Garages](/ModularParkGarage/Content/Garages)
+## Completed Garages
 
 ### San Jose
 San Jose Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
