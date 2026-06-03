@@ -12,22 +12,22 @@ CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
 Located at [/Content/Garages](/ModularParkGarage/Content/Garages)
 
 ### Garage1
-2 story underground, Completed 4/26 &emsp; [Download](/ModularParkGarage/Content/Garages/Garage1.umap) </br>
+2 story underground, Completed 4/26 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage1.umap) &emsp; [Download Annotated](/Exports/Garage1/) </br>
 <img src="Screenshots/Garage1/HighresScreenshot00006.png" />
 
 ### Garage2
-1 story, Completed 4/30 &emsp; [Download](/ModularParkGarage/Content/Garages/Garage2.umap)
+1 story, Completed 4/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage2.umap) &emsp; [Download Annotated](/Exports/Garage2/)
 </br><img src="Screenshots/Garage2/HighresScreenshot00002.png" />
 
 ### Top Floor
-San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download](/ModularParkGarage/Content/Garages/TopFloor.umap)
+San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/TopFloor.umap) &emsp; [Download Annotated](/Exports/TopFloor/)
 </br><img src="Screenshots/TopFloor/HighresScreenshot00001.png" />
 
 ### San Jose
-San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download](/ModularParkGarage/Content/Garages/Demonstration.umap)
+San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [Download Unreal](/Exports/SanJose/)
 </br><img src="Screenshots/SanJose/SanJose3.jpg" />
 
 ### Adi's Garage
-Garage on hill, Completed 6/1 &emsp; [Download](/ModularParkGarage/Content/Garages/Adi.umap)
+Garage on hill, Completed 6/1 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Adi.umap) &emsp; [Download Unreal](/Exports/Adi/)
 </br><img src="Screenshots/Adi/HighresScreenshot00008.png" />
 
