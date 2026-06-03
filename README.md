@@ -25,9 +25,9 @@ San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download](/ModularParkG
 
 ### San Jose
 San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download](/ModularParkGarage/Content/Garages/Demonstration.umap)
-</br><img src="Screenshots/SanJose/SanJose3.png" />
+</br><img src="Screenshots/SanJose/SanJose3.jpg" />
 
 ### Adi's Garage
 Garage on hill, Completed 6/1 &emsp; [Download](/ModularParkGarage/Content/Garages/Adi.umap)
-</br><img src="Screenshots/SanJose/Adi/HighresScreenshot00009.png" />
+</br><img src="Screenshots/Adi/HighresScreenshot00009.png" />
 
