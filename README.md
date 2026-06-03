@@ -1,6 +1,5 @@
 # 3D Garage Annotation for Autonomous Vehicle Training with CARLA
 <em>By Jack Landers</em>
-</br></br>
 
 ### San Jose
 Big City Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
