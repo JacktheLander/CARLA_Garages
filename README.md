@@ -1,5 +1,6 @@
-# ModularParkGarage
-Base Unreal project for CARLA developments </br>
+# 3D Garage Annotation for Autonomous Vehicle Training with CARLA
+<br>
+'ModularParkGarage' is the base Unreal project for CARLA developments </br>
 Assets and Levels: &emsp; [/ModularParkGarage/Content/](/ModularParkGarage/Content/) </br>
 RoadRunner texture and fbx imports pre-annotation: &emsp; [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner) </br>
 CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
