@@ -18,12 +18,12 @@ San Jose Demo, Full Garage, Completed 5/30 &emsp; [Download Unreal](/ModularPark
 </br><img src="Screenshots/SanJose/SanJose3.jpg" />
 
 ### Garage2
-1 story, Completed 4/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage2.umap)
+1 story, Completed 4/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage2.umap) &emsp; [CARLA Annotated](/Exports/Garage2/)
 </br><img src="Screenshots/Garage2/HighresScreenshot00002.png" />
 
 ### Garage1
-2 story underground, Completed 4/26 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage1.umap) </br>
-<img src="Screenshots/Garage1/HighresScreenshot00006.png" />
+2 story underground, Completed 4/26 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage1.umap) &emsp; [CARLA Annotated](/Exports/Garage1/)
+</br> <img src="Screenshots/Garage1/HighresScreenshot00006.png" />
 
 ### Top Floor
 San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/TopFloor.umap) &emsp; [CARLA Annotated](/Exports/SanJose/)
