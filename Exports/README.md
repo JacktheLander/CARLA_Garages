@@ -1,7 +1,7 @@
 # Annotated garages validated and ready for CARLA
 
 **Texture .png files must remain in the same folder as the annotated .fbx or it will lose reference and show a white shape**
-- If this does not resolve, pass agent command 'Write a script that uses Blender to repair the texture references of "path/to.fbx"'
+- If this does not resolve, pass agent command 'Write a script that uses Blender to repair the texture references'
 
 ### San Jose
 San Jose Complete, Full Garage, Completed 5/30 &emsp; [Download Unreal](./ModularParkGarage/Content/Garages/Demonstration.umap)
