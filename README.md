@@ -1,12 +1,6 @@
 # 3D Garage Annotation for Autonomous Vehicle Training with CARLA
 <em>By Jack Landers</em>
 </br></br>
-'ModularParkGarage' is the UE5 project for designing the virtual worlds </br>
-Assets and Levels: &emsp; [/ModularParkGarage/Content/](/ModularParkGarage/Content/) </br>
-RoadRunner texture and fbx imports pre-annotation: &emsp; [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner) </br>
-CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
-
-## Completed Garages
 
 ### San Jose
 Big City Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
@@ -31,3 +25,9 @@ Garage on hill, Unreal project by Adi Thakrar, Completed 6/1 &emsp; [Download Un
 ## Purchased asset packs
 - [ModularParkingGarage](https://www.fab.com/listings/3b4e78f1-a19a-4604-b464-caf8d27a4f2c)
 - [ParkingGarage](https://www.fab.com/listings/a7ebb22d-0c83-4c54-b12c-4050b559457c)
+
+## Appendix
+'ModularParkGarage' is the UE5 project for designing the virtual worlds </br>
+Assets and Levels: &emsp; [/ModularParkGarage/Content/](/ModularParkGarage/Content/) </br>
+RoadRunner texture and fbx imports pre-annotation: &emsp; [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner) </br>
+CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
