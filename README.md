@@ -12,11 +12,11 @@ CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
 Located at [/Content/Garages](/ModularParkGarage/Content/Garages)
 
 ### Garage1
-2 story underground, Completed 4/26 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage1.umap) &emsp; [Download Annotated](/Exports/Garage1/) </br>
+2 story underground, Completed 4/26 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage1.umap) </br>
 <img src="Screenshots/Garage1/HighresScreenshot00006.png" />
 
 ### Garage2
-1 story, Completed 4/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage2.umap) &emsp; [Download Annotated](/Exports/Garage2/)
+1 story, Completed 4/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Garage2.umap)
 </br><img src="Screenshots/Garage2/HighresScreenshot00002.png" />
 
 ### Top Floor
