@@ -6,10 +6,6 @@ Assets and Levels: &emsp; [/ModularParkGarage/Content/](/ModularParkGarage/Conte
 RoadRunner texture and fbx imports pre-annotation: &emsp; [/Content/Garages/RoadRunner/](/ModularParkGarage/Content/RoadRunner) </br>
 CARLA ready annotated projects: &emsp; [/Exports/](/Exports/)
 
-## Purchased asset packs
-- [ModularParkingGarage](https://www.fab.com/listings/3b4e78f1-a19a-4604-b464-caf8d27a4f2c)
-- [ParkingGarage](https://www.fab.com/listings/a7ebb22d-0c83-4c54-b12c-4050b559457c)
-
 ## Completed Garages
 
 ### San Jose
@@ -32,3 +28,6 @@ San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](/Modul
 Garage on hill, Unreal project by Adi Thakrar, Completed 6/1 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Adi.umap) &emsp; [CARLA Annotated](/Exports/Adi/)
 </br><img src="Screenshots/Adi/HighresScreenshot00008.png" />
 
+## Purchased asset packs
+- [ModularParkingGarage](https://www.fab.com/listings/3b4e78f1-a19a-4604-b464-caf8d27a4f2c)
+- [ParkingGarage](https://www.fab.com/listings/a7ebb22d-0c83-4c54-b12c-4050b559457c)
