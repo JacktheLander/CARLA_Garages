@@ -6,45 +6,45 @@
 
 | Screenshot | Screenshot | Screenshot |
 | --- | --- | --- |
-| ![Adi.png](Adi/Adi.png) | ![Adi2.png](Adi/Adi2.png) | ![HighresScreenshot00000.png](Adi/HighresScreenshot00000.png) |
+| <img src="Adi/Adi.png" alt="Adi.png" width="220"> | <img src="Adi/Adi2.png" alt="Adi2.png" width="220"> | <img src="Adi/HighresScreenshot00000.png" alt="HighresScreenshot00000.png" width="220"> |
 | `Adi.png` | `Adi2.png` | `HighresScreenshot00000.png` |
-| ![HighresScreenshot00006.png](Adi/HighresScreenshot00006.png) | ![HighresScreenshot00008.png](Adi/HighresScreenshot00008.png) | ![HighresScreenshot00009.png](Adi/HighresScreenshot00009.png) |
+| <img src="Adi/HighresScreenshot00006.png" alt="HighresScreenshot00006.png" width="220"> | <img src="Adi/HighresScreenshot00008.png" alt="HighresScreenshot00008.png" width="220"> | <img src="Adi/HighresScreenshot00009.png" alt="HighresScreenshot00009.png" width="220"> |
 | `HighresScreenshot00006.png` | `HighresScreenshot00008.png` | `HighresScreenshot00009.png` |
 
 ### Garage1
 
 | Screenshot | Screenshot | Screenshot |
 | --- | --- | --- |
-| ![HighresScreenshot00000.png](Garage1/HighresScreenshot00000.png) | ![HighresScreenshot00001.png](Garage1/HighresScreenshot00001.png) | ![HighresScreenshot00004.png](Garage1/HighresScreenshot00004.png) |
+| <img src="Garage1/HighresScreenshot00000.png" alt="HighresScreenshot00000.png" width="220"> | <img src="Garage1/HighresScreenshot00001.png" alt="HighresScreenshot00001.png" width="220"> | <img src="Garage1/HighresScreenshot00004.png" alt="HighresScreenshot00004.png" width="220"> |
 | `HighresScreenshot00000.png` | `HighresScreenshot00001.png` | `HighresScreenshot00004.png` |
-| ![HighresScreenshot00005.png](Garage1/HighresScreenshot00005.png) | ![HighresScreenshot00006.png](Garage1/HighresScreenshot00006.png) |  |
+| <img src="Garage1/HighresScreenshot00005.png" alt="HighresScreenshot00005.png" width="220"> | <img src="Garage1/HighresScreenshot00006.png" alt="HighresScreenshot00006.png" width="220"> |  |
 | `HighresScreenshot00005.png` | `HighresScreenshot00006.png` |  |
 
 ### Garage2
 
 | Screenshot | Screenshot | Screenshot |
 | --- | --- | --- |
-| ![HighresScreenshot00000.png](Garage2/HighresScreenshot00000.png) | ![HighresScreenshot00001.png](Garage2/HighresScreenshot00001.png) | ![HighresScreenshot00002.png](Garage2/HighresScreenshot00002.png) |
+| <img src="Garage2/HighresScreenshot00000.png" alt="HighresScreenshot00000.png" width="220"> | <img src="Garage2/HighresScreenshot00001.png" alt="HighresScreenshot00001.png" width="220"> | <img src="Garage2/HighresScreenshot00002.png" alt="HighresScreenshot00002.png" width="220"> |
 | `HighresScreenshot00000.png` | `HighresScreenshot00001.png` | `HighresScreenshot00002.png` |
-| ![HighresScreenshot00003.png](Garage2/HighresScreenshot00003.png) |  |  |
+| <img src="Garage2/HighresScreenshot00003.png" alt="HighresScreenshot00003.png" width="220"> |  |  |
 | `HighresScreenshot00003.png` |  |  |
 
 ### SanJose
 
 | Screenshot | Screenshot | Screenshot |
 | --- | --- | --- |
-| ![SanJose.png](SanJose/SanJose.png) | ![SanJose1.jpg](SanJose/SanJose1.jpg) | ![SanJose2.jpg](SanJose/SanJose2.jpg) |
+| <img src="SanJose/SanJose.png" alt="SanJose.png" width="220"> | <img src="SanJose/SanJose1.jpg" alt="SanJose1.jpg" width="220"> | <img src="SanJose/SanJose2.jpg" alt="SanJose2.jpg" width="220"> |
 | `SanJose.png` | `SanJose1.jpg` | `SanJose2.jpg` |
-| ![SanJose3.jpg](SanJose/SanJose3.jpg) | ![SanJose4.jpg](SanJose/SanJose4.jpg) |  |
+| <img src="SanJose/SanJose3.jpg" alt="SanJose3.jpg" width="220"> | <img src="SanJose/SanJose4.jpg" alt="SanJose4.jpg" width="220"> |  |
 | `SanJose3.jpg` | `SanJose4.jpg` |  |
 
 ### TopFloor
 
 | Screenshot | Screenshot | Screenshot |
 | --- | --- | --- |
-| ![HighresScreenshot00001.png](TopFloor/HighresScreenshot00001.png) | ![HighresScreenshot00002.png](TopFloor/HighresScreenshot00002.png) | ![HighresScreenshot00003.png](TopFloor/HighresScreenshot00003.png) |
+| <img src="TopFloor/HighresScreenshot00001.png" alt="HighresScreenshot00001.png" width="220"> | <img src="TopFloor/HighresScreenshot00002.png" alt="HighresScreenshot00002.png" width="220"> | <img src="TopFloor/HighresScreenshot00003.png" alt="HighresScreenshot00003.png" width="220"> |
 | `HighresScreenshot00001.png` | `HighresScreenshot00002.png` | `HighresScreenshot00003.png` |
-| ![HighresScreenshot00004.png](TopFloor/HighresScreenshot00004.png) | ![HighresScreenshot00005.png](TopFloor/HighresScreenshot00005.png) |  |
+| <img src="TopFloor/HighresScreenshot00004.png" alt="HighresScreenshot00004.png" width="220"> | <img src="TopFloor/HighresScreenshot00005.png" alt="HighresScreenshot00005.png" width="220"> |  |
 | `HighresScreenshot00004.png` | `HighresScreenshot00005.png` |  |
 
 <!-- IMAGE_GALLERY_END -->

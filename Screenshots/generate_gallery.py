@@ -1,3 +1,4 @@
+from html import escape
 from pathlib import Path
 
 
@@ -8,11 +9,19 @@ START = "<!-- IMAGE_GALLERY_START -->"
 END = "<!-- IMAGE_GALLERY_END -->"
 
 COLUMNS = 3
+IMAGE_WIDTH = 220
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg"}
 
 
 def escape_cell(text):
     return text.replace("|", r"\|")
+
+
+def image_cell(img):
+    rel_path = img.relative_to(ROOT).as_posix()
+    alt = escape(img.name, quote=True)
+    src = escape(rel_path, quote=True)
+    return f'<img src="{src}" alt="{alt}" width="{IMAGE_WIDTH}">'
 
 
 def build_gallery():
@@ -35,10 +44,7 @@ def build_gallery():
             row = images[i:i + COLUMNS]
             padded_row = row + [None] * (COLUMNS - len(row))
 
-            image_cells = [
-                f"![{escape_cell(img.name)}]({img.relative_to(ROOT).as_posix()})" if img else ""
-                for img in padded_row
-            ]
+            image_cells = [image_cell(img) if img else "" for img in padded_row]
             caption_cells = [f"`{escape_cell(img.name)}`" if img else "" for img in padded_row]
 
             lines.append("| " + " | ".join(image_cells) + " |")
