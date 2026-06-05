@@ -8,12 +8,15 @@ START = "<!-- IMAGE_GALLERY_START -->"
 END = "<!-- IMAGE_GALLERY_END -->"
 
 COLUMNS = 3
-IMAGE_WIDTH = 220
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg"}
 
 
+def escape_cell(text):
+    return text.replace("|", r"\|")
+
+
 def build_gallery():
-    sections = []
+    lines = []
 
     for module_dir in sorted([p for p in ROOT.iterdir() if p.is_dir()]):
         images = sorted(
@@ -23,27 +26,27 @@ def build_gallery():
         if not images:
             continue
 
-        sections.append(f"### {module_dir.name}\n")
-        sections.append("<table>\n")
+        lines.append(f"### {module_dir.name}")
+        lines.append("")
+        lines.append("| " + " | ".join(["Screenshot"] * COLUMNS) + " |")
+        lines.append("| " + " | ".join(["---"] * COLUMNS) + " |")
 
         for i in range(0, len(images), COLUMNS):
             row = images[i:i + COLUMNS]
-            sections.append("  <tr>\n")
+            padded_row = row + [None] * (COLUMNS - len(row))
 
-            for img in row:
-                rel_path = img.relative_to(ROOT).as_posix()
-                sections.append(
-                    '    <td align="center">\n'
-                    f'      <img src="{rel_path}" width="{IMAGE_WIDTH}"><br>\n'
-                    f"      <sub>{img.name}</sub>\n"
-                    "    </td>\n"
-                )
+            image_cells = [
+                f"![{escape_cell(img.name)}]({img.relative_to(ROOT).as_posix()})" if img else ""
+                for img in padded_row
+            ]
+            caption_cells = [f"`{escape_cell(img.name)}`" if img else "" for img in padded_row]
 
-            sections.append("  </tr>\n")
+            lines.append("| " + " | ".join(image_cells) + " |")
+            lines.append("| " + " | ".join(caption_cells) + " |")
 
-        sections.append("</table>\n\n")
+        lines.append("")
 
-    return "\n".join(sections).strip() or "_No screenshot images found._"
+    return "\n".join(lines).strip() or "_No screenshot images found._"
 
 
 def update_readme():
