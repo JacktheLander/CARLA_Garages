@@ -1,14 +1,5 @@
 # Screenshots
 
-Run the gallery generator from this directory to refresh the module image tables:
-
-```bash
-python generate_gallery.py
-```
-
-The generator scans only one level below this screenshots root and includes files matching `module_name/*.png`, `module_name/*.jpg`, or `module_name/*.jpeg`.
-
-<!-- IMAGE_GALLERY_START -->
 
 ### Adi
 
