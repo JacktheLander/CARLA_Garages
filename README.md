@@ -1,6 +1,10 @@
 # 3D Garage Annotation for Autonomous Vehicle Training with CARLA
 <em>By Jack Landers</em>
 
+This repository contains a collection of annotated parking garage environments developed in RoadRunner and integrated with CARLA for autonomous vehicle research. These digital twin environments provide semantic scene annotations, traffic infrastructure, and parking-specific layouts designed for training and evaluating perception, planning, and control systems.
+
+The environments support the development of autonomous parking capabilities and parking-focused world models by providing structured, reproducible scenarios for tasks such as parking spot detection, maneuver planning, navigation, and vehicle positioning within complex garage settings.
+
 ### San Jose
 Big City Garage, Completed 5/30 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Demonstration.umap) &emsp; [CARLA Annotated](/Exports/SanJose(Full)/)
 </br><img src="Screenshots/SanJose/SanJose3.jpg" />
