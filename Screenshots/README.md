@@ -4,9 +4,8 @@
 
 ### Adi
 
-| --- | --- | --- |
-| <img src="Adi/Adi.png" alt="Adi.png" width="220"> | <img src="Adi/Adi2.png" alt="Adi2.png" width="220"> | <img src="Adi/HighresScreenshot00000.png" alt="HighresScreenshot00000.png" width="220"> |
-| <img src="Adi/HighresScreenshot00006.png" alt="HighresScreenshot00006.png" width="220"> | <img src="Adi/HighresScreenshot00008.png" alt="HighresScreenshot00008.png" width="220"> | <img src="Adi/HighresScreenshot00009.png" alt="HighresScreenshot00009.png" width="220"> |
+<img src="Adi/Adi.png" alt="Adi.png" width="220"> <img src="Adi/Adi2.png" alt="Adi2.png" width="220"><img src="Adi/HighresScreenshot00000.png" alt="HighresScreenshot00000.png" width="220">
+<img src="Adi/HighresScreenshot00006.png" alt="HighresScreenshot00006.png" width="220"> <img src="Adi/HighresScreenshot00008.png" alt="HighresScreenshot00008.png" width="220"> <img src="Adi/HighresScreenshot00009.png" alt="HighresScreenshot00009.png" width="220">
 
 ### Garage1
 
