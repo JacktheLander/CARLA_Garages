@@ -22,3 +22,15 @@ San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](./Modu
 ### Adi's Garage
 Garage on hill, Completed 6/1 &emsp; [Download Unreal](./ModularParkGarage/Content/Garages/Adi.umap)
 </br><img src="../Screenshots/Adi/HighresScreenshot00008.png" />
+
+### Garage4 - Finn Facilities
+Daniel's Garage #4, Finn Facilities, Completed 6/9 &emsp; [Download Unreal](./ModularParkGarage/Content/Garages/Finn_Facilities.umap)
+</br><img src="../Screenshots/Garage4_Finn_Facilities/Final_v6.png" />
+
+### Garage6 - Benson Lot
+Daniel's Garage #6, Benson Lot, Completed 6/9 &emsp; [Download Unreal](./ModularParkGarage/Content/Garages/Benson_Lot.umap)
+</br><img src="../Screenshots/Garage6_Benson_Lot/Camera_1.png" />
+
+### Garage8 - Main Structure
+Daniel's Garage #8, Main Structure, Completed 6/9 &emsp; [Download Unreal](./ModularParkGarage/Content/Garages/Main_Structure.umap)
+</br><img src="../Screenshots/Garage8_Main_Structure/View_1.png" />

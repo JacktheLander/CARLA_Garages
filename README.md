@@ -25,6 +25,18 @@ San Jose Demo, top floor isolated, Completed 5/8 &emsp; [Download Unreal](/Modul
 Garage on hill, Unreal project by Adi Thakrar, Completed 6/1 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Adi.umap) &emsp; [CARLA Annotated](/Exports/Adi/)
 </br><img src="Screenshots/Adi/HighresScreenshot00008.png" />
 
+### Garage4 - Finn Facilities
+Daniel's Garage #4, Finn Facilities, Completed 6/9 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Finn_Facilities.umap) &emsp; [CARLA Annotated](/Exports/Garage4_Finn_Facilities/)
+</br><img src="Screenshots/Garage4_Finn_Facilities/Final_v6.png" />
+
+### Garage6 - Benson Lot
+Daniel's Garage #6, Benson Lot, Completed 6/9 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Benson_Lot.umap) &emsp; [CARLA Annotated](/Exports/Garage6_Benson_Lot/)
+</br><img src="Screenshots/Garage6_Benson_Lot/Camera_1.png" />
+
+### Garage8 - Main Structure
+Daniel's Garage #8, Main Structure, Completed 6/9 &emsp; [Download Unreal](/ModularParkGarage/Content/Garages/Main_Structure.umap) &emsp; [CARLA Annotated](/Exports/Garage8_Main_Structure/)
+</br><img src="Screenshots/Garage8_Main_Structure/View_1.png" />
+
 ## Purchased asset packs
 - [ModularParkingGarage](https://www.fab.com/listings/3b4e78f1-a19a-4604-b464-caf8d27a4f2c)
 - [ParkingGarage](https://www.fab.com/listings/a7ebb22d-0c83-4c54-b12c-4050b559457c)
