@@ -2,5 +2,11 @@ Exports/SanJose/*.fbx filter=lfs diff=lfs merge=lfs -text
 Exports/Adi/** filter=lfs diff=lfs merge=lfs -text
 Exports/Garage1/** filter=lfs diff=lfs merge=lfs -text
 Exports/Garage2/** filter=lfs diff=lfs merge=lfs -text
+Exports/Garage4_Finn_Facilities/** filter=lfs diff=lfs merge=lfs -text
+Exports/Garage6_Benson_Lot/** filter=lfs diff=lfs merge=lfs -text
+Exports/Garage8_Main_Structure/** filter=lfs diff=lfs merge=lfs -text
 Exports/SanJose(Full)/** filter=lfs diff=lfs merge=lfs -text
 ModularParkGarage/Content/Garages/*.umap filter=lfs diff=lfs merge=lfs -text
+Screenshots/Garage4_Finn_Facilities/** filter=lfs diff=lfs merge=lfs -text
+Screenshots/Garage6_Benson_Lot/** filter=lfs diff=lfs merge=lfs -text
+Screenshots/Garage8_Main_Structure/** filter=lfs diff=lfs merge=lfs -text
